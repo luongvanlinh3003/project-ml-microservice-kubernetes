@@ -1,3 +1,4 @@
+
 (.devops) ubuntu@ip-172-31-18-226:~/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
 pod/myproject1 created
 NAME         READY   STATUS              RESTARTS   AGE
